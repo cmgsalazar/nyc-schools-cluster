@@ -27,6 +27,6 @@ Cluster 3: majority Black (66.5%)
 
 Cluster 4: significantly white (42.4%), with Hispanic (25.6%) and Asian/Pacific Islander (17.6%) populations
 
---
+***
 
 This project was developed as a requirement for the Secure AI class at the Craig Newmark Graduate School of Journalism at CUNY, under the instruction of [John Templon](http://github.com/jtemplon/).
