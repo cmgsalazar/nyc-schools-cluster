@@ -11,6 +11,10 @@ The clustering could then be used to expand the analyses of other education metr
 
 Data used for this project are from the [NYC Schools website](https://infohub.nyced.org/reports/students-and-schools/school-quality/information-and-data-overview).
 
+## Content
+
+See `1_clustering` for the K-means clustering process and `analysis_*` notebooks for the analyses of these clusters as they related to other key education metrics.
+
 ## Clusters, by student demographic
 
 Cluster 0: at least half the students are Asian/Pacific Islander (51.4%), with a significant Hispanic population (26.7%)
@@ -22,10 +26,6 @@ Cluster 2: predominantly Hispanic (77.3%)
 Cluster 3: majority Black (66.5%)
 
 Cluster 4: significantly white (42.4%), with Hispanic (25.6%) and Asian/Pacific Islander (17.6%) populations
-
-## Content
-
-See `1_clustering` for the K-means clustering process and `analysis_*` notebooks for the analyses of these clusters as they related to other key education metrics.
 
 --
 
